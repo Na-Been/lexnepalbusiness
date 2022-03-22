@@ -1,0 +1,13 @@
+{
+    "name": "Testimony",
+    "alias": "testimony",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Testimony\\Providers\\TestimonyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "About": true,
+    "Blog": true,
+    "Setting": true,
+    "Team": true,
+    "Slider": true,
+    "Testimony": true,
+    "Services": true,
+    "Offers": true,
+    "Products": true,
+    "Cases": true,
+    "Performance": true
+}
